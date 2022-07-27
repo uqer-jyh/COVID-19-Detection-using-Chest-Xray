@@ -26,5 +26,5 @@ More about Densenets here in this [paper](https://arxiv.org/abs/1608.06993).
 
 I am traning all the the Layers, instead of freezing CNN Layers and training only the Fully Connected Layer (Classification Layer) like most people do in Classification Task. Since we are handling Medical Images here we have to train the CNN layers completely or Partially.
 
-### Model performance
-![Model evaluation](Model evaluation.png)
+### Model evaluation
+![Model evaluation](https://github.com/uqer-jyh/COVID-19-Detection-using-Chest-Xray/blob/main/Model%20evaluation.png)
