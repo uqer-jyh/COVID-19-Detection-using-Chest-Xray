@@ -28,3 +28,4 @@ I am traning all the the Layers, instead of freezing CNN Layers and training onl
 
 ### Model evaluation
 ![Model evaluation](https://github.com/uqer-jyh/COVID-19-Detection-using-Chest-Xray/blob/main/Model%20evaluation.png)
+![Confusion matrix](https://github.com/uqer-jyh/COVID-19-Detection-using-Chest-Xray/blob/main/Confusion%20matrix.png)
